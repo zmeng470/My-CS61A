@@ -1,2 +1,2 @@
 # My-CS61A
-Where dream starts
+A journey about CS61A
